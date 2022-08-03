@@ -33,5 +33,3 @@ Para el cierre del proyecto los integrantes del equipo elaboran una presentació
 ---
 
 - Video publicado y referenciado en la wiki del proyecto con el contenido de la presentación final con el contenido solicitado: métricas del proyecto, resultado de la retrospectiva, comparación de las dos retrospectivas y lecciones aprendidas.
-
-/*Es un video en el que los grupos realizan una reflexión sobre las lecciones aprendidas, las dificultades y su respuesta y comocontribuye este conocimiento a su práctica profesional Evaluar opurtunidades y estrategias de mejora del proceso de construcción de ApIS*/
