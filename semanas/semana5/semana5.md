@@ -4,7 +4,8 @@
 
 Los objetivos de la semana 5 son:
 
-1. Implementar los controladores del API REST.
+1. Realizar el lanzamiento de la iteración 2 del proyecto
+2. Implementar los controladores del API REST.
 3. Realizar las pruebas del API REST.
 
 ### Resumen de las Actividades
