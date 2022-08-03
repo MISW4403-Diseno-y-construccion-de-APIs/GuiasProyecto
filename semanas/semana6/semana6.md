@@ -11,8 +11,5 @@ Los objetivos de la semana 6 son:
 
 | Actividad                                                                          |
 | ---------------------------------------------------------------------------------- |
-| [Realizar el lanzamiento de la iteración 2 del proyecto](s6_lanzamiento.md)        |
-| [Incorporar cache](s6_cache.md)                                      |
+| [Asegurar los endpoints](s6_asegurar.md)                                      |
 | [Hacer la planeación de la semana 6](s6_syp.md)                                |
-
-
