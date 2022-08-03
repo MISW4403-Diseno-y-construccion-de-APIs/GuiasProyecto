@@ -11,6 +11,7 @@ Los objetivos de la semana 5 son:
 
 | Actividad                                                                        |
 | -------------------------------------------------------------------------------- |
+| [Realizar el lanzamiento de la iteración 2](s5_lanzamiento.md) |
 | [Hacer la planeación de la semana 5](s5_syp.md) |
 | [Implementar controladores](s5_controladores.md)    |
 | [Realizar las pruebas del API REST](s5_pruebas.md)                                     |
