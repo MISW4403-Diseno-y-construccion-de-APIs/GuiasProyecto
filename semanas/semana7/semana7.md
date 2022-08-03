@@ -9,4 +9,4 @@
 | Actividad                                                                        |
 | -------------------------------------------------------------------------------- |
 | [Hacer la planeación de la semana 7](s7_syp.md) |
-| [Incoporar GraphQL](s7_graphql.md)                                            |
+| [Incoporar caché en el API](s7_cache.md)                                            |
