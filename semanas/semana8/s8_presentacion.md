@@ -1,4 +1,4 @@
-## Semana 8 - Preparar presentación final en video
+## Semana 8 - Hacer presentación final en video
 
 ### Objetivos
 
