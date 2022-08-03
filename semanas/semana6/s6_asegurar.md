@@ -1,4 +1,4 @@
-## Semana 6 - Incorporar cache
+## Semana 6 - Asegurar los endpoints 
 
 ### Objetivos
 
@@ -6,13 +6,13 @@
 
 El objetivo de esta actividad es:
 
-- Incorporar la noción de cache en el API desarrollado con el fin de mejorar su deseméño.
+- Incorporar mecanismos de seguridad en el API desarrollado.
 
 ### Pasos previos
 
 ---
 
-- Haber realizado previamente el tutorial sobre cache en Nest.js.
+- Haber realizado previamente el tutorial sobre seguridad en Nest.js.
 
 ### Descripción de actividad
 
@@ -20,13 +20,13 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Agregar en los controladores el código que permite incorporar el caché
-- Agregar un conjunto significativo de datos para comparar el desempeño del API con y sin caché. 
-- Elaborar las pruebas de desempeño
+- Agregar en los controladores el código que permite incorporar seguridad.
+- Definir usuarios y permisos (de lectura, escritura y eliminación)
+- Crear una lista de usuarios y los permisos que tiene para cada endpoint
 
 ### Recursos
 
-- Tutorial de caché en Nest.js: http://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4403_202212_Caching/index.html#0 
+- Tutorial de seguridad en Nest.js: 
 
 ### Entregable
 
@@ -38,6 +38,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- Al revisar la aplicación se evidencia que en los controladores se ha habilitado la opción de cache.
-- Existe un archivo SQL con una cantidad significativa de datos (500.000 registros aprox.)
+- Al revisar la aplicación se evidencia que en los controladores se ha habilitado la opción de seguridad.
+- No se puede consultar ningún endpoint sin que el usuario esté autenticado y tenga un token.
+- No se pueden ejecutar operaciones creación o eliminación por usuarios que no estén autorizados. 
 
