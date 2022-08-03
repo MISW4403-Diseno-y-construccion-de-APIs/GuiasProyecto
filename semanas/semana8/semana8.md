@@ -15,4 +15,4 @@ Los objetivos de la semana 8 son:
 | [Hacer la planeación de la semana 8](s8_syp.md) |
 | [Incorporar GraphQL al API desarrollada](s8_graphql.md)                       |
 | [Elaborar retrospectiva ](s8_retrospectiva.md)                                  |
-| [Preparar presentación final en video ](s8_presentacion.md)                     |
+| [Hacer presentación final en video ](s8_presentacion.md)                     |
