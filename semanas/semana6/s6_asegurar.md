@@ -21,7 +21,7 @@ El objetivo de esta actividad es:
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 - Agregar en los controladores el código que permite incorporar seguridad.
-- Definir usuarios y permisos (de lectura, escritura y eliminación)
+- Definir usuarios, contraseñas y permisos (de lectura, escritura y eliminación)
 - Crear una lista de usuarios y los permisos que tiene para cada endpoint
 
 ### Recursos
@@ -31,7 +31,7 @@ El objetivo de esta actividad es:
 ### Entregable
 
 ---
-
+- Wiki con el listado de usuarios, credenciales para autenticarse y permisos que tiene para cada endpoint
 - Repositorio de GitHub actualizado.
 
 ### Criterio de calificación
