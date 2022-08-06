@@ -1,4 +1,4 @@
-## Semana 2 - Hacer la planeación de la semana 2
+## Hacer la planeación de la semana
 
 ### Objetivos
 
@@ -23,14 +23,12 @@ El objetivo de esta actividad es:
 
 Formato definición de una tarea:
 
-| Tarea: Detallar la HU << _aquí va el nombre de la historia_ >>             |
+| << _aquí va el nombre de la tarea_ >>             |
 | -------------------------------------------------------------------------- |
 | Fecha entrega: << _aquí va la fecha de entrega_ >>                         |
 | Tiempo estimado: << _aquí va el tiempo que se estima tomará esta tarea_ >> |
 
 Cuando edite la tarjeta, en la opción "Asignees" seleccione el integrante del equipo a quien se asignará la tarea.
-
-
 
 Ejemplo:
 
