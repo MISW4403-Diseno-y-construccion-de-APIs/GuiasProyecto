@@ -13,5 +13,5 @@ El objetivo de la semana 3 es:
 
 | Actividad                                                                       |
 | ------------------------------------------------------------------------------- |
-| [Hacer la planeación de la semana 3](s3_syp.md) |
+| [Hacer la planeación de la semana 3](../semana2/s2_syp.md) |
 | [Diseñar y documentar el API](s3_design.md)                |
