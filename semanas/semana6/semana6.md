@@ -11,4 +11,4 @@ Los objetivos de la semana 6 son:
 | Actividad                                                                          |
 | ---------------------------------------------------------------------------------- |
 | [Asegurar los endpoints](s6_asegurar.md)                                      |
-| [Hacer la planeación de la semana 6](s6_syp.md)                                |
+| [Hacer la planeación de la semana 6](../semana2/s2_syp.md)                                |
