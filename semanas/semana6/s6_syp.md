@@ -1,4 +1,4 @@
-## Semana 6 - Hacer la planeación de la semana 6
+## Semana 7 - Hacer la planeación de la semana 7
 
 ### Objetivos
 
@@ -6,13 +6,7 @@
 
 El objetivo de esta actividad es:
 
-- Construir el plan de la semana para cumplir con los hitos establecidos.
-
-### Pasos previos
-
----
-
-- El equipo debe haber realizado las tareas de la semana anterior.
+- Construir el plan de la semana para cumplir con los hitos establecidos y las acciones de mejora.
 
 ### Descrición actividad
 
@@ -20,8 +14,8 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante crea en la columna "Por Hacer" del Kanban del Github de su proyecto una tarea por cada actividad de la semana.
-- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" según corresponda.
+- Cada integrante crea en la columna "Todo" del Kanban de GitHub de su proyecto una tarea por cada actividad de la semana.
+- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tarea en el Kanban de Github, moviéndola a la columna "In Progress" o "Done" según corresponda.
 
 ### Recursos
 
@@ -31,13 +25,16 @@ Formato definición de una tarea:
 
 | Tarea: Detallar la HU << _aquí va el nombre de la historia_ >>             |
 | -------------------------------------------------------------------------- |
-| Responsable: << _aquí va el nombre del responsable_ >>                     |
 | Fecha entrega: << _aquí va la fecha de entrega_ >>                         |
 | Tiempo estimado: << _aquí va el tiempo que se estima tomará esta tarea_ >> |
 
+Cuando edite la tarjeta, en la opción "Asigneees" seleccione el integrante del equipo a quien se asignará la tarea.
+
+
+
 Ejemplo:
 
-| ![](./../../assets/images/kanbanTODO.jpg) |
+| ![](./../../assets/images/kanbanTODO.png) |
 | ----------------------------------------- |
 | Fig. Ejemplo Kanban                       |
 
