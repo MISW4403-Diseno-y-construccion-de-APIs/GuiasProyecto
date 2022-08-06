@@ -34,7 +34,7 @@ Cuando edite la tarjeta, en la opción "Asigneees" seleccione el integrante del 
 
 Ejemplo:
 
-| ![](./../../assets/images/kanbanTODO.jpg) |
+| ![](./../../assets/images/kanbanTODO.png) |
 | ----------------------------------------- |
 | Fig. Ejemplo Kanban                       |
 
