@@ -24,7 +24,7 @@ Un país puede tener más de una cultura gastronómica. La descripción de la cu
 
 Para entender mejor cada cultura gastronómica debe haber información específica sobre sus productos característicos. Por ejemplo, y tomando como referencia la cultura gastronómica Japonesa podemos mencionar al wasabi, la especia o condimento picante usado a menudo en sushi y otros platos con pescado. Cada producto tendrá un nombre, una descripción, una historia, y estará asociado con una categoría (que para el caso del wasabi será condimentos).
 
-De cada cultura gastronómica debe existir un listado de las recetas más representativas. Una receta debe incluir un nombre, una descripción, una foto del plato, proceso de preparación básica, e incluir un video opcional de la preparación.
+De cada cultura gastronómica debe existir un listado de las recetas más representativas. Una receta debe incluir un nombre, una descripción, una foto del plato, proceso de preparación básica, e incluir un video opcional de la preparación. Asumiremos que una receta solo pertenece a una cultura gastronómica. 
 
 La cultura gastronómica tendrá también un listado de restaurantes reconocidos especializados en ese tipo de comida. Cada restaurante tendrá un nombre, la ciudad y el país donde se encuentra, y el número de estrellas Michelin (si las tiene) junto con fecha de consecución. También se debe considerar que existen restaurantes que comparten más de una cultura gastronómica. El volumen de información que se manejará es importante: se espera que cada cultura gastronímica tenga miles de productos y recetas. 
 
