@@ -1,4 +1,4 @@
-## Semana 7 - Hacer la planeación de la semana 7
+## Semana 6 - Hacer la planeación de la semana 6
 
 ### Objetivos
 
