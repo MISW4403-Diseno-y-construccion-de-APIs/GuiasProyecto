@@ -2,7 +2,7 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de máximo 3 estudiantes. El producto que se debe construir es un API REST.
+El proyecto se hace en equipos de máximo 4 estudiantes. El producto que se debe construir es un API REST.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
