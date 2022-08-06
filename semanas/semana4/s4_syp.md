@@ -28,7 +28,7 @@ Formato definición de una tarea:
 | Fecha entrega: << _aquí va la fecha de entrega_ >>                         |
 | Tiempo estimado: << _aquí va el tiempo que se estima tomará esta tarea_ >> |
 
-Cuando edite la tarjeta, en la opción "Asigneees" seleccione el integrante del equipo a quien se asignará la tarea.
+Cuando edite la tarjeta, en la opción "Asignees" seleccione el integrante del equipo a quien se asignará la tarea.
 
 
 
