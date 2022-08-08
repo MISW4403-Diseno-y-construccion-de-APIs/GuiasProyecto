@@ -41,4 +41,5 @@ El objetivo de esta actividad es:
 - Al revisar la aplicación se evidencia que en los controladores se ha habilitado la opción de seguridad.
 - No se puede consultar ningún endpoint sin que el usuario esté autenticado y tenga un token.
 - No se pueden ejecutar operaciones creación o eliminación por usuarios que no estén autorizados. 
+- Al revisar la wiki se encuentra el istado de usuarios, credenciales para autenticarse y permisos que tiene para cada endpoint
 
