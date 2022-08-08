@@ -34,5 +34,5 @@ Los objetivos de esta actividad son:
 
 ---
 
-- En la wiki está la restrospectiva de la iteración 2 con el contenido de la reflexión siguiendo los líneamientos de la Estrella de Mar.
+- En la wiki está la retrospectiva de la iteración 2 con el contenido de la reflexión siguiendo los lineamientos de la Estrella de Mar.
 - Las acciones son claras, realizables, verificables y medibles.
