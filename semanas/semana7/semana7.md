@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-1. Incorporar GraphQL en el API REST desarrollada.
+1. Incorporar caché en el API REST desarrollada.
 
 ### Resumen de las Actividades
 
