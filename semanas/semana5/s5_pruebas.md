@@ -44,7 +44,7 @@ Cada integrante debe:
 
 - En el repositorio está la carpeta de las colecciones
 - Cada recurso tiene su colección y la colección contiene los _requests_ para todos los métodos incluso aquellos en los que se espera un código de error.
-- Cada request de los recursos incluyen una prueba la cual tiene sentido en el contexto del proyecto 
+- Cada request de los recursos incluye una prueba la cual tiene sentido en el contexto del proyecto 
 - Cada asociación tiene su colección y la colección contiene los _requests_ para todos los métodos incluso aquellos en los que se espera un código de error.  
-- Cada request de las asociaciones incluyen una prueba la cual tiene sentido en el contexto del proyecto 
+- Cada request de las asociaciones incluye una prueba la cual tiene sentido en el contexto del proyecto 
 - Las pruebas de todas las colecciones se ejecutan correctamente
