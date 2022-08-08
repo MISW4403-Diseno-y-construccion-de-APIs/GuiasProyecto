@@ -39,5 +39,6 @@ El objetivo de esta actividad es:
 ---
 
 - Al revisar la aplicación se evidencia que en los controladores se ha habilitado la opción de cache.
-- Existe un archivo SQL con una cantidad significativa de datos (500.000 registros aprox.)
+- Existe una carpeta scripts que contiene un archivo SQL con una cantidad significativa de datos (100.000 registros aprox.)
+- En la wiki se incluyen las evidencias que demuestran el mejoramiento del desempeño del API
 
