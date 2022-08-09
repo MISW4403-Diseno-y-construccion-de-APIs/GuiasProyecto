@@ -24,7 +24,7 @@ El objetivo de esta actividad es:
 
 Para el diseño del API el equipo debe definir:
 
-- Los recursos del API. Estos recursos muy seguramente corresponderán a los clases definidas en el modelo conceptual.
+- Los recursos del API. Estos recursos muy seguramente corresponderán a las clases definidas en el modelo conceptual.
 - Las operaciones sobre los recursos. Acá se deben incluir las operaciones que pueden generar códigos de error, por ejemplo, consultar, editar o borrar un recurso que no existe.
 - Las operaciones sobre asociaciones. 
 - Las representaciones de los recursos (básicas y detalladas) tanto para las peticiones como para las respuestas.
