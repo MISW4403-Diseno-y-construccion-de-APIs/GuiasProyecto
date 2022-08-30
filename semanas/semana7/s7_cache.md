@@ -6,7 +6,7 @@
 
 El objetivo de esta actividad es:
 
-- Incorporar la noción de cache en el API desarrollado con el fin de mejorar su deseméño.
+- Incorporar cache en el API desarrollada con el fin de mejorar su deseméño.
 
 ### Pasos previos
 
@@ -20,9 +20,9 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Agregar en los controladores el código que permite incorporar el caché
-- Agregar un conjunto significativo de datos para comparar el desempeño del API con y sin caché. 
-- Elaborar las pruebas de desempeño
+- Agregar en los servicios el código que permite incorporar el caché. Esto se debe hacer en todos los métodos.
+- Agregar un conjunto significativo de datos (aprox. 100.000 registros) en las tablas que representam recursos y asociaciones para comparar el desempeño del API con y sin caché. 
+- Elaborar las pruebas de desempeño con JMeter. 
 
 ### Recursos
 
@@ -38,7 +38,6 @@ El objetivo de esta actividad es:
 
 ---
 
-- Al revisar la aplicación se evidencia que en los controladores se ha habilitado la opción de cache.
-- Existe una carpeta scripts que contiene un archivo SQL con una cantidad significativa de datos (100.000 registros aprox.)
-- En la wiki se incluyen las evidencias que demuestran el mejoramiento del desempeño del API
-
+- Al revisar la aplicación se evidencia que en todos los métodos del servicio se ha incluido el código para administrar el cache.
+- Existe una carpeta scripts que contiene un archivo SQL con una cantidad significativa de datos para cada tabla que represente un recurso o una asociación (100.000 registros aprox).
+- En la wiki se incluyen las evidencias (e.g., capturas de pantalla de JMeter) que demuestran el mejoramiento del desempeño del API.
