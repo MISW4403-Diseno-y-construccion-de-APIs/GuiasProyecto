@@ -20,7 +20,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Definir un conjunto de usuarios con sus contraseñas y permisos. Debe existir un usuario admin, un usuario con permisos de lectura para todos los recursos, un usuario con permisos de lectura para un recurso específico, un usuario con permisos de escritura (creación y actualización) y otro con permisos de eliminación.
+- Definir un conjunto de usuarios con sus contraseñas y permisos. Debe existir un usuario admin con todos los permisos, un usuario con permisos de lectura para todos los recursos, un usuario con permisos de lectura para un recurso específico, un usuario con permisos de escritura (creación y actualización) y otro con permisos de eliminación.
 - Implementar un endpoint /users/login que valide las credenciales del usuario y genere un token de autorización. 
 - Agregar en los controladores el código que permite incorporar seguridad. Cada usuario definido anteriormente solo tendrá acceso a los endpoints necesarios.
 
