@@ -38,6 +38,6 @@ El objetivo de esta actividad es:
 
 ---
 
-- Al revisar la aplicación se evidencia que en todos los métodos del servicio se ha incluido el código para administrar el cache.
+- Al revisar la aplicación se evidencia que en el método findAll de todos los servicios se ha incluido el código para administrar el cache.
 - Existe una carpeta scripts que contiene un archivo SQL con una cantidad significativa de datos para cada tabla que represente un recurso o una asociación (100.000 registros aprox).
 - En la wiki se incluyen las evidencias (e.g., capturas de pantalla de JMeter) que demuestran el mejoramiento del desempeño del API.
