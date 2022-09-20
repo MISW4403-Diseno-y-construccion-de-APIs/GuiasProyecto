@@ -20,7 +20,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Agregar en los servicios el código que permite incorporar el caché. Esto se debe hacer en todos los métodos.
+- Agregar en los servicios el código que permite incorporar el caché. Esto se debe hacer en los métodos de tipo findAll.
 - Agregar un conjunto significativo de datos (aprox. 100.000 registros) en las tablas que representam recursos y asociaciones para comparar el desempeño del API con y sin caché. 
 - Elaborar las pruebas de desempeño con JMeter. 
 
