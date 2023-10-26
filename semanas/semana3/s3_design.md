@@ -44,7 +44,7 @@ El modelo con las representaciones (tanto básicas como detalladas) se incluirá
 
 ---
 
-- Wiki del proyecto actualizada con el enlace al la documentación del diseño del API.
+- Repositorio de código actualizado con la carpeta de las colecciones.
 - Wiki del proyecto actualizada con la captura de pantalla del modelo con las representaciones. 
 
 ### Criterios de evaluación
