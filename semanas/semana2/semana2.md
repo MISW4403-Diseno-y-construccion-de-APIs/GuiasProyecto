@@ -6,7 +6,7 @@ Los objetivos de la semana 2 son:
 
 1. Elaborar el modelo conceptual individual del proyecto.
 2. Elaborar el modelo consolidado del proyecto.
-3. Crear un video en el que se expliquen las deciciones de diseño tomadas para la elaboración del modelo.
+3. Crear un video en el que se expliquen las decisiones de diseño tomadas para la elaboración del modelo.
 4. Utilizar el proceso de seguimiento y planeación para mejorar la coordinación del equipo.
 
 ### Resumen de las Actividades
