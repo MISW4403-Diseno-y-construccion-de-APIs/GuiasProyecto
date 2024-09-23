@@ -9,4 +9,4 @@
 | Actividad                                                                        |
 | -------------------------------------------------------------------------------- |
 | [Hacer la planeación de la semana 7](../semana2/s2_syp.md) |
-| [Incoporar caché en el API](s7_cache.md)                                            |
+| [Incorporar caché en el API](s7_cache.md)                                            |
